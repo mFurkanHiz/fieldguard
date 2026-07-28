@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FieldGuard.EntityFrameworkCore/FieldGuard.EntityFrameworkCore.csproj" />
+    <Project Path="src/FieldGuard/FieldGuard.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FieldGuard.Tests/FieldGuard.Tests.csproj" />
+  </Folder>
+</Solution>

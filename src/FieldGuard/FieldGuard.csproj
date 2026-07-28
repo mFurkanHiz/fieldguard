@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>FieldGuard</PackageId>
+    <Description>Authenticated field-level encryption for .NET. AES-256-GCM with a versioned payload format and key rotation built in, so values encrypted with an old key keep working after you rotate. No dependencies.</Description>
+  </PropertyGroup>
+
+</Project>
