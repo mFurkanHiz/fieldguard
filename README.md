@@ -1,5 +1,7 @@
 # FieldGuard
 
+![CI](https://github.com/mFurkanHiz/fieldguard/actions/workflows/ci.yml/badge.svg)
+
 Encrypt individual database columns in .NET, with key rotation that does not mean rewriting
 your table.
 
